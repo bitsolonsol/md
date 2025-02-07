@@ -1,0 +1,11 @@
+{
+  "name": "Bitsol",
+  "symbol": "BITSOL",
+  "description": "Bitsol, bitcoin on solana",
+  "image": "https://i.postimg.cc/PqptpJ9Z/Bitsol.jpg",
+  "extensions": {
+    "website": "https://linktr.ee/bitsolonsol",
+    "twitter": "https://x.com/BITSOLONSOL",
+    "telegram": "https://t.me/bitsolonsol"
+  }
+}
